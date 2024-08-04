@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ankit-Gope007
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Dev
-- 📫 How to reach me emailllll or twitter dm (id-@ankitgope106)
+- 📫 How to reach me emailllll(id-ankitgope21@gmail.com) or twitter dm (id-@ankitgope106)
 - ⚡ Fun fact: i can solve a rubics cube under 15 sec
 
 <!---

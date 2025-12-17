@@ -1,12 +1,79 @@
 <h1 align="center">Hi 👋, I'm Ankit Gope</h1>
-<h3 align="center">A FullStack Web Developer | Civil Engineer @ NIT Durgapur | Tech Explorer 🚀</h3>
+<h3 align="center">
+Full-Stack Developer | AI & Backend Enthusiast | B.Tech Civil Engineering @ NIT Durgapur
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=520&lines=Always+learning+something+new...;Love+to+code+and+create+cool+stuff!;Let's+build+something+great+together!+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Building+real-world+systems...;Exploring+AI+%26+Backend+Engineering;Learning+by+building+and+shipping+🚀" alt="Typing SVG" />
 </p>
 
-# 💫 About Me:
-🔭 I’m a Full Stack Developer and I’ve built VibeChat – a real-time chat app using the MERN stack and Socket.IO.<br>🌱 Currently diving deeper into React.js, Node.js, and Next.js to build faster and scalable web applications.<br>👨‍💻 All of my projects are available at My Portfolio (coming soon!)<br>💬 Ask me about JavaScript, MERN stack, MySQL, MongoDB, React, and building backend systems.<br>🧠 Currently learning: TypeScript, and AI integrations.<br>🛠️ I love solving real-world problems through code and intuitive UX/UI.<br>🎯 2025 Goal: Build scalable SaaS projects and contribute to open source.<br>🧩 Fun fact: I enjoy chess ♟️, philosophy, and deep convos about life.
+---
+
+## 💫 About Me
+
+I’m a **software developer by passion** and a Civil Engineering undergraduate at **NIT Durgapur**, actively working at the intersection of **backend systems, AI, and full-stack development**.
+
+- 🧠 Built **production-style applications** involving **RAG, LLMs, and scalable backends**
+- ⚙️ Strong interest in **backend engineering, systems design, and applied AI**
+- 🧩 Active member of **GNU/Linux Users Group (GLUG)** — open source, Linux, and infra exposure
+- 🎯 Focused on building systems with **real users, real constraints, and real impact**
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Campus Companion
+**AI-powered campus information assistant**
+- Built using **FastAPI, RAG, and LLMs (Mistral-7B)**
+- Semantic search with embeddings, intelligent intent routing, and AI-formatted responses
+- Combines structured databases + unstructured documents
+
+### 🧾 Audition Portal
+**Full-stack audition management system**
+- Built with **Next.js, Node.js, and Prisma**
+- Handles **400–500+ students annually**
+- Secure authentication, structured submissions, and admin dashboards
+
+### 🎓 Academia Validator
+**Academic credential verification system**
+- Uses **OCR**, **blockchain-backed immutability**, and **RAG**
+- Enables intelligent, context-aware validation of academic records
+
+### 💬 Vibe Chat
+**Real-time one-on-one chat application**
+- Built with **Next.js, Socket.IO, and Tailwind CSS**
+- Live messaging with responsive UI
+
+---
+
+## 🤝 Open Source & Community
+
+### GNU/Linux Users Group (GLUG), NIT Durgapur
+- Active contributor to **open-source initiatives**
+- Involved in maintaining **college servers and official website**
+- Exposure to **Linux systems, deployments, and production infrastructure**
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-gope-b85313324)
+[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white)](https://github.com/Ankit-Gope007)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitgope21@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Ankit-Gope007&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Ankit-Gope007&theme=vue-dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Gope007&theme=vue-dark&hide_border=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Ankit-Gope007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:

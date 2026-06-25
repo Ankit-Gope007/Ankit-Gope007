@@ -39,7 +39,10 @@
 
   <!-- Hero Text Glow (Shadow layer) -->
   <text x="427" y="117" fill="#a855f7" font-family="Arial, sans-serif" font-size="44" font-weight="bold" text-anchor="middle" letter-spacing="2" opacity="0.5">
-    > sudo execute ankit.sh _
+    Legend—wait for it...
+    I'm Ankit.
+    ...dary.
+
   </text>
   
   <!-- Main Hero Text -->
